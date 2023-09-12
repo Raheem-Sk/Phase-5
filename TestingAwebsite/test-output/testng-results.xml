@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-01T11:33:41 IST" name="Default suite" finished-at="2023-09-01T11:34:00 IST" duration-ms="18957">
+    <groups>
+    </groups>
+    <test started-at="2023-09-01T11:33:41 IST" name="Default test" finished-at="2023-09-01T11:34:00 IST" duration-ms="18957">
+      <class name="Selinum.TestNGexample.NewTest1">
+        <test-method is-config="true" signature="init()[pri:0, instance:Selinum.TestNGexample.NewTest1@2c767a52]" started-at="2023-09-01T11:33:41 IST" name="init" finished-at="2023-09-01T11:33:43 IST" duration-ms="1442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="f1()[pri:0, instance:Selinum.TestNGexample.NewTest1@2c767a52]" started-at="2023-09-01T11:33:43 IST" name="f1" finished-at="2023-09-01T11:33:48 IST" duration-ms="5361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f1 -->
+        <test-method signature="f2()[pri:0, instance:Selinum.TestNGexample.NewTest1@2c767a52]" started-at="2023-09-01T11:33:48 IST" name="f2" finished-at="2023-09-01T11:34:00 IST" duration-ms="11958" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f2 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:Selinum.TestNGexample.NewTest1@2c767a52]" started-at="2023-09-01T11:34:00 IST" name="close" finished-at="2023-09-01T11:34:00 IST" duration-ms="153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Selinum.TestNGexample.NewTest1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
